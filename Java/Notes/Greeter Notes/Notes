@@ -1,0 +1,3 @@
+Member Variables - Oobject Attributes or fields that belong to a data type or class.
+Local Variables - Variables within methods code blocks that are not member variables. These are temporary because the disaappear when the method ends. 
+Parameter Variables - those that are declared in your method signature, which are also temporary. 

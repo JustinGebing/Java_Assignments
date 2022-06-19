@@ -1,0 +1,6 @@
+Type casting allows you to switch variable types. 
+
+Implicit casts up turns a smaller variable into a bigger variable
+
+primitive types of data have to hold data
+Object pointers can be null
