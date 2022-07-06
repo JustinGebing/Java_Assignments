@@ -5,8 +5,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Hopper's Receipt</title>
+	<meta charset="ISO-8859-1">
+	<title>Hopper's Receipt</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<script type="text/javascript" src="js/app.js"></script>
 </head>
 <body>
 
