@@ -1,4 +1,19 @@
-form {
-	border: black 2px;
-    display: flex;
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    width: 750px;
+    height: 1000px;
+}
+
+.form{
+    border: black 2px solid;
+}
+
+p{
+    border: 2px black solid;
+    background-color: aqua;
+    width: 150px;
+    height: 400px;
+    font-size: 25px;
 }
